@@ -1,2 +1,4 @@
 child
 third child
+forth child
+child6
