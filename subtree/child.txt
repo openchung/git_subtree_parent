@@ -3,3 +3,4 @@ third child
 forth child
 child6
 parent1
+child7
